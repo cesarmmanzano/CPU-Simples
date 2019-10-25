@@ -1,7 +1,7 @@
 # CPU Simples
 Projeto de uma CPU simples que executa algumas instruções básicas.
 
-## Instruções Realizadas:
+## Instruções Realizadas
 Ri e Rj -> Registradores de 8 bits
 <br>
 Imediato: Valor imediato
