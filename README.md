@@ -3,6 +3,7 @@ Projeto de uma CPU simples que executa algumas instruções básicas.
 
 ## Instruções Realizadas:
 Ri e Rj -> Registradores de 8 bits
+<br>
 Imediato: Valor imediato
 - MOV Ri, Rj
 - MOV Ri, Imediato
