@@ -1,5 +1,17 @@
 # CPU-Simples
-Projeto de uma CPU simples que executa algumas operações basicas
+Projeto de uma CPU simples que executa algumas instruções básicas.
 
-
-Feito para a materia de Arquitetura de Computadores
+## Instruções Realizadas:
+Ri e Rj -> Registradores de 8 bits
+Imediato: Valor imediato
+- MOV Ri, Rj
+- MOV Ri, Imediato
+- XCHG Ri, Rj
+- ADD Ri, Rj
+- ADDI Ri, Imediato
+- SUB Ri, Rj
+- SUBI Ri, Imediato
+- AND Ri, Rj
+- ANDI Ri, Imediato
+- OR Ri, Rj
+- ORI Ri, Imediato
