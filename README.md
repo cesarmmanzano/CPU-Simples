@@ -1,4 +1,4 @@
-# CPU-Simples
+# CPU Simples
 Projeto de uma CPU simples que executa algumas instruções básicas.
 
 ## Instruções Realizadas:
